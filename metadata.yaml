@@ -1,0 +1,5 @@
+homepage: "https://www.linkedin.com/in/sadikulshadin/"
+documentation: "https://github.com/trackingwithshadin/gtm-bd-zip-code-extractor"
+versions:
+  - sha: "main"
+    changeNotes: "Initial release of BD Smart Zip Code Extractor template."
